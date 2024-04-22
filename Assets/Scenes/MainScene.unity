@@ -3883,8 +3883,28 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 960975603043415546, guid: 95ebdee61cb909941b20bc38888c8839,
         type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 960975603043415546, guid: 95ebdee61cb909941b20bc38888c8839,
+        type: 3}
       propertyPath: m_Constraints
       value: 84
+      objectReference: {fileID: 0}
+    - target: {fileID: 960975603043415546, guid: 95ebdee61cb909941b20bc38888c8839,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1017390900869261518, guid: 95ebdee61cb909941b20bc38888c8839,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1017390900869261518, guid: 95ebdee61cb909941b20bc38888c8839,
+        type: 3}
+      propertyPath: m_ProvidesContacts
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5221852042454850703, guid: 95ebdee61cb909941b20bc38888c8839,
         type: 3}
